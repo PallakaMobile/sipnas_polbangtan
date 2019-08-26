@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path
+        name="sipnaspippolbangtan"
+        path="Android/data/ps.sipnas.polbangtan/files/Pictures" />
+    <external-path name="external_files" path="."/>
+</paths>
